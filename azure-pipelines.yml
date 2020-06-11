@@ -10,7 +10,7 @@ variables:
   RestoreBuildProjects: 'samples/**/*.csproj'
   TestProjects: 'test/MusicStore.Test/*.csproj'
   BuildConfiguration: 'Release'
-  DockerImageName: 'AzureTest/musicstore'
+  DockerImageName: 'harambee-dev/musicstore'
 steps:
 - task: DotNetCoreCLI@2
   displayName: Restore
