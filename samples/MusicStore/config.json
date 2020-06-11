@@ -1,6 +1,6 @@
 ﻿{
   "AppSettings": {
-    "SiteTitle": "ASP.NET MVC Music Store",
+    "SiteTitle": "ASP.NET MVC Music Store on Kubernetes Engine",
     "CacheDbResults": true
   },
   "DefaultAdminUsername": "Administrator@test.com",
